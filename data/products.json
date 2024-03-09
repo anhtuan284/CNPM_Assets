@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 13 Pro",
+    "image": "https://app-room76.ru/wp-content/uploads/2024/02/Background-27-300x300.png",
+    "category_id": 2,
+    "price": 27000000
+  },
+  {
+    "id": 2,
+    "name": "Galaxy Tab 9",
+    "image": "https://app-room76.ru/wp-content/uploads/2024/02/Background-27-300x300.png",
+    "category_id": 2,
+    "price": 27000000
+  },
+  {
+    "id": 3,
+    "name": "iPhone 11 Pro",
+    "image": "https://app-room76.ru/wp-content/uploads/2024/02/Background-27-300x300.png",
+    "category_id": 2,
+    "price": 27000000
+  },
+  {
+    "id": 4,
+    "name": "Tai nghe không dây",
+    "image": "https://app-room76.ru/wp-content/uploads/2024/02/Background-27-300x300.png",
+    "category_id": 3,
+    "price": 27000000
+  },
+  {
+    "id": 5,
+    "name": "Laptop Lenovo Legion 5 ",
+    "image": "https://app-room76.ru/wp-content/uploads/2024/02/Background-27-300x300.png",
+    "category_id": 1,
+    "price": 15000000
+  }
+]
